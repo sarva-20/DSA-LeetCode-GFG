@@ -24,4 +24,4 @@ This project serves as a structured record of my coding practice. My goals are t
 
 If you'd like to connect or have any questions about my solutions, feel free to reach out on **[www.linkedin.com/in/sarvaponns20](https://www.linkedin.com/in/sarvatarshan20/)**.
 
-**Collaborated with :** **(https://www.linkedin.com/in/prabakaransr19/)**
+**Collaborated with :** **https://www.linkedin.com/in/prabakaransr19/**
