@@ -25,3 +25,19 @@ This project serves as a structured record of my coding practice. My goals are t
 If you'd like to connect or have any questions about my solutions, feel free to reach out on **[www.linkedin.com/in/sarvaponns20](https://www.linkedin.com/in/sarvatarshan20/)**.
 
 **Collaborated with :** **https://www.linkedin.com/in/prabakaransr19/**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->
