@@ -85,8 +85,15 @@ The automation is powered by a custom GitHub Actions workflow:
 
 ## Statistics 📊
 
-- **Total Problems Solved:** ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyour-username&logo=leetcode&style=flat-square)
-- **Languages Used:** Python, C++, Java
+## Statistics 📊
+
+![LeetCode Stats](https://leetcode-badge.vercel.app/api/sarvatarshan20?theme=dark)
+
+- **Total Problems Solved:** ![Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsarvatarshan20&logo=leetcode&style=flat-square)
+- **Easy:** ![Easy](https://img.shields.io/badge/dynamic/json?color=green&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsarvatarshan20&logo=leetcode&style=flat-square)
+- **Medium:** ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsarvatarshan20&logo=leetcode&style=flat-square)
+- **Hard:** ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsarvatarshan20&logo=leetcode&style=flat-square)
+- **Languages Used:** Java, Python, SQL
 - **Automated Commits:** 100% via LeetHub + GitHub Actions
 
 ---
