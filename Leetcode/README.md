@@ -85,14 +85,11 @@ The automation is powered by a custom GitHub Actions workflow:
 
 ## Statistics 📊
 
-## Statistics 📊
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sarvatarshan20?theme=dark&font=Ubuntu&ext=heatmap)
 - **Languages Used:** Java, Python, SQL
 - **Automated Commits:** 100% via LeetHub + GitHub Actions
 
 ---
-
 
 ## Connect & Collaborate 🤝
 
