@@ -5,9 +5,10 @@ class Solution {
         for(int i=0;i<nums.size();i++){
             int n1=0;
             ans[i]=-1;
-            while(n1<nums.get(i)){
+            int p = nums.get(i);
+            while(n1<p){
                 int res = n1 | (n1+1);
-                if(res == nums.get(i)){
+                if(res == p){
                     ans[i] = n1;
                     break;
                 }
