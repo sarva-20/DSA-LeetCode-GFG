@@ -4,10 +4,7 @@ class Solution {
         //ans[i] | (ans[i]+1) == nums[i]
         for(int i=0;i<nums.size();i++){
             int n1=0;
-            if(nums.get(i)%2==0){
-                ans[i]=-1;
-                continue;
-            }
+            ans[i]=-1;
             while(n1<nums.get(i)){
                 int res = n1 | (n1+1);
                 if(res == nums.get(i)){
@@ -16,9 +13,7 @@ class Solution {
                 }
                 n1++;
             }
-            if(ans[i]==0 && nums.get(i) != 1){
-                ans[i]=-1;
-            }
+            
         }
         return ans;
     }
