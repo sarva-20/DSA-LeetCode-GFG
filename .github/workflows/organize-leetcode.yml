@@ -1,9 +1,10 @@
 name: Auto-Organize LeetCode Solutions
-
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'Leetcode/**'  # Don't trigger when we organize into Leetcode folder
   workflow_dispatch:
 
 jobs:
@@ -14,35 +15,38 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
       
       - name: Move LeetCode solutions to Leetcode folder
         run: |
+          # Create Leetcode folder if it doesn't exist
+          mkdir -p Leetcode
+          
           # Find all folders starting with numbers (LeetCode problem format)
-          # Example: 0013-roman-to-integer, 0001-two-sum, etc.
+          moved=false
           
           for dir in [0-9]*-*/; do
-            if [ -d "$dir" ] && [ "$dir" != "Leetcode/" ]; then
-              echo "Moving $dir to Leetcode/"
-              
-              # Create Leetcode folder if it doesn't exist
-              mkdir -p Leetcode
-              
-              # Move the problem folder
-              mv "$dir" Leetcode/
+            # Remove trailing slash
+            dir_name="${dir%/}"
+            
+            if [ -d "$dir_name" ]; then
+              echo "Moving $dir_name to Leetcode/"
+              mv "$dir_name" Leetcode/
+              moved=true
             fi
           done
           
+          # Set output for next step
+          echo "moved=$moved" >> $GITHUB_OUTPUT
+        id: move_files
+          
       - name: Commit and push changes
+        if: steps.move_files.outputs.moved == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Check if there are changes to commit
-          if [[ -n $(git status -s) ]]; then
-            git add .
-            git commit -m "🤖 Auto-organize: Move LeetCode solutions to Leetcode folder"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git add -A
+          git commit -m "🤖 Auto-organize: Move LeetCode solutions to Leetcode folder"
+          git push
