@@ -46,8 +46,13 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
