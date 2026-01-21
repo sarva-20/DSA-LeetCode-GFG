@@ -33,6 +33,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 ## Array
 |  |
 | ------- |
@@ -60,10 +62,23 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
