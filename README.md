@@ -50,6 +50,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 ## Array
@@ -70,6 +71,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
