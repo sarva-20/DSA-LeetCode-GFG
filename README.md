@@ -34,6 +34,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -54,6 +55,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 ## Array
 |  |
