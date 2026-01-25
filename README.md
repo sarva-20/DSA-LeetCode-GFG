@@ -49,6 +49,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 ## Array
