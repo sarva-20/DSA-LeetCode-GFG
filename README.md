@@ -46,6 +46,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
+| [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
