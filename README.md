@@ -31,6 +31,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
@@ -48,6 +49,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -95,6 +97,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Rolling Hash
