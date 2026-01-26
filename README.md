@@ -41,6 +41,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
