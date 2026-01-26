@@ -44,6 +44,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0009-palindrome-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
@@ -134,6 +135,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -147,4 +149,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
