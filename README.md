@@ -31,6 +31,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
@@ -66,6 +67,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
