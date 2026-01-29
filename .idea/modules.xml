@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0001-two-sum/0001-two-sum.iml" filepath="$PROJECT_DIR$/Leetcode/0001-two-sum/0001-two-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/Leetcode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0006-zigzag-conversion/0006-zigzag-conversion.iml" filepath="$PROJECT_DIR$/Leetcode/0006-zigzag-conversion/0006-zigzag-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0009-palindrome-number/0009-palindrome-number.iml" filepath="$PROJECT_DIR$/Leetcode/0009-palindrome-number/0009-palindrome-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0012-integer-to-roman/0012-integer-to-roman.iml" filepath="$PROJECT_DIR$/Leetcode/0012-integer-to-roman/0012-integer-to-roman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0015-3sum/0015-3sum.iml" filepath="$PROJECT_DIR$/Leetcode/0015-3sum/0015-3sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.iml" filepath="$PROJECT_DIR$/Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0046-permutations/0046-permutations.iml" filepath="$PROJECT_DIR$/Leetcode/0046-permutations/0046-permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0058-length-of-last-word/0058-length-of-last-word.iml" filepath="$PROJECT_DIR$/Leetcode/0058-length-of-last-word/0058-length-of-last-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0062-unique-paths/0062-unique-paths.iml" filepath="$PROJECT_DIR$/Leetcode/0062-unique-paths/0062-unique-paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0063-unique-paths-ii/0063-unique-paths-ii.iml" filepath="$PROJECT_DIR$/Leetcode/0063-unique-paths-ii/0063-unique-paths-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.iml" filepath="$PROJECT_DIR$/Leetcode/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0125-valid-palindrome/0125-valid-palindrome.iml" filepath="$PROJECT_DIR$/Leetcode/0125-valid-palindrome/0125-valid-palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.iml" filepath="$PROJECT_DIR$/Leetcode/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.iml" filepath="$PROJECT_DIR$/Leetcode/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.iml" filepath="$PROJECT_DIR$/Leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" filepath="$PROJECT_DIR$/Leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0205-isomorphic-strings/0205-isomorphic-strings.iml" filepath="$PROJECT_DIR$/Leetcode/0205-isomorphic-strings/0205-isomorphic-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0242-valid-anagram/0242-valid-anagram.iml" filepath="$PROJECT_DIR$/Leetcode/0242-valid-anagram/0242-valid-anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0344-reverse-string/0344-reverse-string.iml" filepath="$PROJECT_DIR$/Leetcode/0344-reverse-string/0344-reverse-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/Leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/1200-minimum-absolute-difference/1200-minimum-absolute-difference.iml" filepath="$PROJECT_DIR$/Leetcode/1200-minimum-absolute-difference/1200-minimum-absolute-difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.iml" filepath="$PROJECT_DIR$/Leetcode/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.iml" filepath="$PROJECT_DIR$/Leetcode/1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.iml" filepath="$PROJECT_DIR$/Leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/2235-add-two-integers/2235-add-two-integers.iml" filepath="$PROJECT_DIR$/Leetcode/2235-add-two-integers/2235-add-two-integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/2469-convert-the-temperature/2469-convert-the-temperature.iml" filepath="$PROJECT_DIR$/Leetcode/2469-convert-the-temperature/2469-convert-the-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/3315-construct-the-minimum-bitwise-array-ii/3315-construct-the-minimum-bitwise-array-ii.iml" filepath="$PROJECT_DIR$/Leetcode/3315-construct-the-minimum-bitwise-array-ii/3315-construct-the-minimum-bitwise-array-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.iml" filepath="$PROJECT_DIR$/Leetcode/3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GIT.iml" filepath="$PROJECT_DIR$/.idea/GIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+    </modules>
+  </component>
+</project>
