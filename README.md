@@ -51,6 +51,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
