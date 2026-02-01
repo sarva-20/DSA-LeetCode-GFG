@@ -35,6 +35,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0205-isomorphic-strings) |
@@ -79,6 +80,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0001-two-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
@@ -179,6 +181,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 ## Union-Find
 |  |
