@@ -54,6 +54,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
@@ -220,4 +221,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
