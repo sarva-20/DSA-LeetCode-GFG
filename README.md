@@ -91,6 +91,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0088-merge-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -115,6 +116,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
