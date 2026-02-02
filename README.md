@@ -43,6 +43,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -63,6 +64,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
 ## String
@@ -101,6 +103,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
+| [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -221,6 +224,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
 | ------- |
