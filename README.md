@@ -111,6 +111,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -128,6 +129,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0344-reverse-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
 |  |
@@ -201,6 +204,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
 | ------- |
