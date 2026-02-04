@@ -112,6 +112,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
@@ -164,6 +165,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -193,6 +195,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
+| [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
