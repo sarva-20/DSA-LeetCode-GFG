@@ -123,6 +123,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
+| [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
