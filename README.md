@@ -105,6 +105,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0414-third-maximum-number) |
@@ -133,6 +134,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0075-sort-colors](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +147,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0136-single-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -276,6 +279,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
