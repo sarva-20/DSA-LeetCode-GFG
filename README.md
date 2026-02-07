@@ -87,6 +87,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0344-reverse-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
@@ -219,6 +220,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
@@ -251,6 +253,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
 | ------- |
