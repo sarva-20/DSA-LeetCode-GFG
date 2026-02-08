@@ -298,4 +298,16 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
