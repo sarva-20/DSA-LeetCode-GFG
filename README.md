@@ -128,6 +128,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
+| [3701-compute-alternating-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3701-compute-alternating-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3701-compute-alternating-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
