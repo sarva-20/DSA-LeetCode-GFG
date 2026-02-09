@@ -228,6 +228,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
@@ -300,16 +301,24 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
