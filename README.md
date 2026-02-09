@@ -19,6 +19,7 @@ This project serves as a structured record of my coding practice. My goals are t
 - Python
 - C++
 - Java
+- Pandas
   
 ### **Connect with Me**
 
