@@ -21,10 +21,6 @@ jobs:
           # Create Leetcode folder if it doesn't exist
           mkdir -p Leetcode
           
-          # Get the latest commit message
-          commit_msg=$(git log -1 --pretty=%B)
-          echo "Commit message: $commit_msg"
-          
           # Track if we made any changes
           changes_made=false
           
@@ -36,8 +32,11 @@ jobs:
             if [ -d "$dir_name" ]; then
               echo "Found LeetCode problem folder: $dir_name"
               
+              # Get the latest commit message
+              commit_msg=$(git log -1 --pretty=%B)
+              echo "Commit message: $commit_msg"
+              
               # Extract time and space from commit message
-              # Format: "Time: 3 ms (57.02%), Space: 46.9 MB (30.7%)"
               time_value=""
               space_value=""
               
@@ -52,17 +51,14 @@ jobs:
               
               # Determine solution folder name
               if [ -n "$time_value" ] && [ -n "$space_value" ]; then
-                # Option 3: Performance-based naming
                 solution_folder="solution-${time_value}-${space_value}"
               else
-                # Option 1: Timestamp fallback
                 timestamp=$(date +"%Y-%m-%d-%H%M%S")
                 solution_folder="solution-${timestamp}"
                 echo "  -> Could not extract performance, using timestamp"
               fi
               
               target_path="Leetcode/$dir_name/$solution_folder"
-              echo "  -> Moving to $target_path"
               
               # If this exact solution already exists, add a suffix
               counter=1
@@ -72,11 +68,11 @@ jobs:
                 counter=$((counter + 1))
               done
               
+              echo "  -> Moving to $target_path"
+              
               # Create the solution directory and move contents
               mkdir -p "$target_path"
               mv "$dir_name"/* "$target_path/" 2>/dev/null || true
-              
-              # Remove the now-empty original directory
               rmdir "$dir_name" 2>/dev/null || true
               
               changes_made=true
@@ -98,8 +94,33 @@ jobs:
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
             git commit -m "🤖 Auto-organize: Archive LeetCode solution with performance metrics"
-            git push
-            echo "Changes committed and pushed successfully"
+            
+            # Pull with rebase to handle concurrent pushes from LeetHub
+            git pull --rebase origin main
+            
+            # Push with retry logic
+            max_retries=3
+            attempt=1
+            
+            while [ $attempt -le $max_retries ]; do
+              echo "Push attempt $attempt of $max_retries..."
+              
+              if git push origin main; then
+                echo "✅ Push successful!"
+                break
+              else
+                echo "⚠️ Push failed, retrying in 5 seconds..."
+                sleep 5
+                git pull --rebase origin main
+                attempt=$((attempt + 1))
+              fi
+            done
+            
+            if [ $attempt -gt $max_retries ]; then
+              echo "❌ Failed to push after $max_retries attempts"
+              exit 1
+            fi
+            
           else
             echo "No changes to commit"
           fi
