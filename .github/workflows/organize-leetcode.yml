@@ -5,6 +5,11 @@ on:
       - main
   workflow_dispatch:
 
+# Prevent multiple workflows running at the same time
+concurrency:
+  group: repo-organize
+  cancel-in-progress: false
+
 jobs:
   organize:
     runs-on: ubuntu-latest
@@ -86,7 +91,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config user.name "sarva-20"
-          git config user.email "tarshuponns@gmail.com"
+          git config user.email "YOUR_EMAIL_HERE@gmail.com"
           
           # Stage all changes
           git add -A
@@ -95,10 +100,7 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "🤖 Auto-organize: Archive LeetCode solution with performance metrics"
             
-            # Pull with rebase to handle concurrent pushes from LeetHub
-            git pull --rebase origin main
-            
-            # Push with retry logic
+            # Push with retry + conflict resolution logic
             max_retries=3
             attempt=1
             
@@ -109,9 +111,16 @@ jobs:
                 echo "✅ Push successful!"
                 break
               else
-                echo "⚠️ Push failed, retrying in 5 seconds..."
+                echo "⚠️ Push failed, pulling latest changes..."
                 sleep 5
-                git pull --rebase origin main
+                
+                # Use merge instead of rebase to avoid rename conflicts
+                git pull --strategy=ours origin main || {
+                  # If merge fails, force our version
+                  git checkout --ours .
+                  git add -A
+                }
+                
                 attempt=$((attempt + 1))
               fi
             done
