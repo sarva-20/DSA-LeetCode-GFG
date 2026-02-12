@@ -5,9 +5,6 @@ on:
       - main
   workflow_dispatch:
 
-# Remove concurrency lock to allow multiple runs
-# But add better conflict handling instead
-
 jobs:
   organize:
     runs-on: ubuntu-latest
@@ -24,46 +21,39 @@ jobs:
           # Create Leetcode folder if it doesn't exist
           mkdir -p Leetcode
           
-          # Track if we made any changes
-          changes_made=false
-          
           # Find all folders starting with numbers (LeetCode problem format)
           for dir in [0-9]*-*/; do
-            # Remove trailing slash
             dir_name="${dir%/}"
             
             if [ -d "$dir_name" ]; then
               echo "Found LeetCode problem folder: $dir_name"
               
-              # Get the latest commit message
+              # Get commit message for performance metrics
               commit_msg=$(git log -1 --pretty=%B)
-              echo "Commit message: $commit_msg"
               
-              # Extract time and space from commit message
+              # Extract time and space
               time_value=""
               space_value=""
               
               if [[ "$commit_msg" =~ Time:\ ([0-9]+)\ ms.*Space:\ ([0-9.]+)\ MB ]]; then
                 time_value="${BASH_REMATCH[1]}ms"
                 space_value="${BASH_REMATCH[2]}MB"
-                echo "  -> Extracted performance: Time=${time_value}, Space=${space_value}"
               fi
               
-              # Create target directory structure
+              # Create target structure
               mkdir -p "Leetcode/$dir_name"
               
               # Determine solution folder name
               if [ -n "$time_value" ] && [ -n "$space_value" ]; then
                 solution_folder="solution-${time_value}-${space_value}"
               else
-                timestamp=$(date +"%Y-%m-%d-%H%M%S")
+                timestamp=$(date +"%Y%m%d-%H%M%S")
                 solution_folder="solution-${timestamp}"
-                echo "  -> Could not extract performance, using timestamp"
               fi
               
               target_path="Leetcode/$dir_name/$solution_folder"
               
-              # If this exact solution already exists, add a suffix
+              # Handle existing solutions
               counter=1
               original_target="$target_path"
               while [ -d "$target_path" ]; do
@@ -71,71 +61,81 @@ jobs:
                 counter=$((counter + 1))
               done
               
-              echo "  -> Moving to $target_path"
+              echo "Moving to $target_path"
               
-              # Create the solution directory and move contents
+              # Move contents
               mkdir -p "$target_path"
               mv "$dir_name"/* "$target_path/" 2>/dev/null || true
               rmdir "$dir_name" 2>/dev/null || true
-              
-              changes_made=true
             fi
           done
-          
-          if [ "$changes_made" = false ]; then
-            echo "No LeetCode folders found in root directory"
-          fi
           
       - name: Commit and push changes
         run: |
           git config user.name "sarva-20"
           git config user.email "tarshuponns@gmail.com"
           
-          # Stage all changes
           git add -A
           
-          # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "🤖 Auto-organize: Archive LeetCode solution with performance metrics"
+            git commit -m "🤖 Auto-organize: Archive LeetCode solution"
             
-            # Advanced retry with conflict resolution
-            max_retries=5
-            attempt=1
-            
-            while [ $attempt -le $max_retries ]; do
-              echo "📤 Push attempt $attempt of $max_retries..."
+            # Simple retry with force pull
+            for i in {1..5}; do
+              echo "Push attempt $i..."
               
               if git push origin main; then
-                echo "✅ Push successful!"
-                break
-              else
-                echo "⚠️ Push failed, fetching latest changes..."
-                sleep 3
-                
-                # Fetch latest without merging
-                git fetch origin main
-                
-                # Try to merge with our strategy preferred
-                if git merge origin/main --no-edit --strategy-option=ours; then
-                  echo "✅ Merge successful, retrying push..."
-                else
-                  echo "⚠️ Merge conflict, resolving with our version..."
-                  # Accept all our changes in conflict
-                  git checkout --ours .
-                  git add -A
-                  git commit --no-edit || true
-                fi
-                
-                attempt=$((attempt + 1))
+                echo "✅ Success!"
+                exit 0
               fi
+              
+              echo "Retrying with fresh pull..."
+              sleep 2
+              
+              # Reset and pull fresh
+              git reset --soft HEAD~1
+              git fetch origin main
+              git reset --hard origin/main
+              
+              # Re-apply our changes
+              for dir in [0-9]*-*/; do
+                dir_name="${dir%/}"
+                if [ -d "$dir_name" ]; then
+                  commit_msg=$(git log -1 --pretty=%B)
+                  
+                  time_value=""
+                  space_value=""
+                  if [[ "$commit_msg" =~ Time:\ ([0-9]+)\ ms.*Space:\ ([0-9.]+)\ MB ]]; then
+                    time_value="${BASH_REMATCH[1]}ms"
+                    space_value="${BASH_REMATCH[2]}MB"
+                  fi
+                  
+                  mkdir -p "Leetcode/$dir_name"
+                  
+                  if [ -n "$time_value" ] && [ -n "$space_value" ]; then
+                    solution_folder="solution-${time_value}-${space_value}"
+                  else
+                    solution_folder="solution-$(date +%Y%m%d-%H%M%S)"
+                  fi
+                  
+                  target_path="Leetcode/$dir_name/$solution_folder"
+                  counter=1
+                  original_target="$target_path"
+                  while [ -d "$target_path" ]; do
+                    target_path="${original_target}-v${counter}"
+                    counter=$((counter + 1))
+                  done
+                  
+                  mkdir -p "$target_path"
+                  mv "$dir_name"/* "$target_path/" 2>/dev/null || true
+                  rmdir "$dir_name" 2>/dev/null || true
+                fi
+              done
+              
+              git add -A
+              git commit -m "🤖 Auto-organize: Archive LeetCode solution" || exit 0
             done
             
-            if [ $attempt -gt $max_retries ]; then
-              echo "❌ Failed to push after $max_retries attempts"
-              echo "ℹ️ This is okay - another workflow might have already organized the files"
-              exit 0  # Exit gracefully instead of failing
-            fi
-            
-          else
-            echo "No changes to commit"
+            echo "⚠️ Could not push after 5 attempts, but that's okay"
+            exit 0
           fi
