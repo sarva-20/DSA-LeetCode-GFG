@@ -51,6 +51,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -94,6 +95,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
 |  |
 | ------- |
@@ -346,6 +348,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Prefix Sum
 |  |
 | ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
