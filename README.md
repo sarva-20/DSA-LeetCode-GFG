@@ -126,6 +126,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0485-max-consecutive-ones](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
@@ -157,6 +158,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -184,6 +186,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0414-third-maximum-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
