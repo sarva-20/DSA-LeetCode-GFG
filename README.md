@@ -63,6 +63,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
@@ -85,6 +86,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
@@ -159,6 +161,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
@@ -215,6 +218,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3701-compute-alternating-sum) |
