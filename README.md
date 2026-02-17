@@ -168,6 +168,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0136-single-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -326,6 +327,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
