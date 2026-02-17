@@ -128,6 +128,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
@@ -193,6 +194,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -369,4 +371,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
