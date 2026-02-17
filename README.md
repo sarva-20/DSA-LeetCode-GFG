@@ -171,6 +171,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0191-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -261,6 +262,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
