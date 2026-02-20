@@ -95,6 +95,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0344-reverse-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
@@ -196,6 +197,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0414-third-maximum-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
+| [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
@@ -340,6 +342,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
