@@ -86,6 +86,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0006-zigzag-conversion](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
@@ -296,6 +297,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
