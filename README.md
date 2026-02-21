@@ -49,6 +49,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
 | [1122-relative-sort-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
@@ -101,6 +102,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
@@ -138,6 +140,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -186,6 +189,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0693-binary-number-with-alternating-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
@@ -311,6 +315,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
