@@ -235,6 +235,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -331,6 +332,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
