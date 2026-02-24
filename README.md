@@ -46,6 +46,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
 | [1122-relative-sort-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1122-relative-sort-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -99,6 +100,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
@@ -187,6 +189,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -207,6 +210,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
