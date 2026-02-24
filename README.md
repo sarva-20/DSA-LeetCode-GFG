@@ -371,6 +371,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -378,6 +379,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -385,6 +387,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
