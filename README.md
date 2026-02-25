@@ -142,6 +142,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -195,6 +196,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -220,6 +222,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -325,6 +328,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
