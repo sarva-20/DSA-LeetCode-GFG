@@ -104,6 +104,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0696-count-binary-substrings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1108-defanging-an-ip-address) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -197,6 +198,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0868-binary-gap](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -262,6 +264,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3701-compute-alternating-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3701-compute-alternating-sum) |
 ## Doubly-Linked List
