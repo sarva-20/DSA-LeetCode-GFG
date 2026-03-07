@@ -113,6 +113,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
@@ -245,6 +246,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Rolling Hash
@@ -298,6 +300,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
