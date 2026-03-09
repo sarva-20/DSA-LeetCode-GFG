@@ -304,6 +304,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0799-champagne-tower](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
@@ -438,6 +439,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
