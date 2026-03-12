@@ -314,6 +314,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String Matching
 |  |
 | ------- |
@@ -338,6 +339,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -388,6 +390,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Geometry
 |  |
 | ------- |
@@ -458,4 +461,12 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
