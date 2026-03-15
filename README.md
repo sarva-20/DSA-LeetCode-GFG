@@ -81,6 +81,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
+| [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
@@ -444,6 +445,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -476,4 +478,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
