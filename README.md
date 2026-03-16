@@ -83,6 +83,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -162,6 +163,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -244,6 +246,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -277,6 +280,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0347-top-k-frequent-elements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -342,6 +346,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -452,6 +457,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
