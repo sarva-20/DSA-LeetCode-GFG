@@ -162,6 +162,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1980-find-unique-binary-string) |
@@ -245,6 +246,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1122-relative-sort-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -321,6 +323,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -346,6 +349,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Union-Find
 |  |
