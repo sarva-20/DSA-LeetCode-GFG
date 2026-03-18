@@ -171,6 +171,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [2798-number-of-employees-who-met-the-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -351,6 +352,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -462,6 +464,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
