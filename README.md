@@ -173,6 +173,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -353,6 +354,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Union-Find
 |  |
 | ------- |
@@ -467,6 +469,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3721-longest-balanced-subarray-ii) |
