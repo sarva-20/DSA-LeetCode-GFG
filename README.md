@@ -122,6 +122,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
@@ -172,6 +173,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1980-find-unique-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -331,6 +333,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3640-trionic-array-ii) |
@@ -342,6 +345,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String Matching
@@ -369,6 +373,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -381,6 +386,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [2573-find-the-string-with-lcp](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
