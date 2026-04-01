@@ -41,6 +41,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
@@ -249,6 +251,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0075-sort-colors](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0347-top-k-frequent-elements) |
