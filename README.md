@@ -317,6 +317,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -417,6 +418,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0387-first-unique-character-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3713-longest-balanced-substring-i](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -540,5 +542,6 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
