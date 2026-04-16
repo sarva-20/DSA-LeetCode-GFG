@@ -544,4 +544,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [1603-design-parking-system](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
