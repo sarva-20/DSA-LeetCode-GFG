@@ -134,6 +134,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
@@ -447,6 +448,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
@@ -461,6 +463,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0191-number-of-1-bits) |
