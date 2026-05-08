@@ -20,6 +20,8 @@ This project serves as a structured record of my coding practice. My goals are t
 - C++
 - Java
 - Pandas
+- SQL
+- Shell
   
 ### **Connect with Me**
 
