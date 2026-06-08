@@ -39,6 +39,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0012-integer-to-roman](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0187-repeated-dna-sequences) |
@@ -103,6 +104,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0013-roman-to-integer](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0125-valid-palindrome) |
@@ -141,6 +143,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0075-sort-colors) |
@@ -253,6 +256,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
