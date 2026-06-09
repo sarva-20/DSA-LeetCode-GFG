@@ -139,6 +139,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0001-two-sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
@@ -210,6 +211,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -358,6 +360,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
