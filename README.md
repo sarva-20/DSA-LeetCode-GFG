@@ -142,6 +142,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0011-container-with-most-water](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
@@ -461,6 +462,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
