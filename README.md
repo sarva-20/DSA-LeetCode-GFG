@@ -83,6 +83,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0223-rectangle-area](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -244,6 +245,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0693-binary-number-with-alternating-bits) |
