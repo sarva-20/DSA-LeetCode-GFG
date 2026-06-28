@@ -149,6 +149,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0049-group-anagrams](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -398,6 +399,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -468,6 +470,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0268-missing-number) |
