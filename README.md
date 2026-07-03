@@ -427,6 +427,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0020-valid-parentheses](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
@@ -572,6 +573,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0155-min-stack) |
 | [1603-design-parking-system](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 ## Database
