@@ -174,6 +174,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0485-max-consecutive-ones](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
@@ -428,6 +429,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0094-binary-tree-inorder-traversal](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
@@ -595,4 +597,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1683-invalid-tweets](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1934-confirmation-rate) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
