@@ -609,6 +609,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1729-find-followers-count](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Monotonic Stack
 |  |
 | ------- |
