@@ -176,6 +176,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0704-binary-search](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0853-car-fleet](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0922-sort-array-by-parity-ii) |
@@ -283,6 +284,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0455-assign-cookies](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0506-relative-ranks) |
 | [0761-special-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0761-special-binary-string) |
+| [0853-car-fleet](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1051-height-checker) |
@@ -430,6 +432,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0853-car-fleet) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
@@ -607,4 +610,5 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
