@@ -93,6 +93,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1622-fancy-sequence](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2469-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -195,6 +196,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -465,6 +467,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
