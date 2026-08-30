@@ -162,6 +162,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
@@ -364,6 +365,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0062-unique-paths](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0799-champagne-tower) |
