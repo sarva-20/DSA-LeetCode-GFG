@@ -494,6 +494,7 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | [0287-find-the-duplicate-number](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0875-koko-eating-bananas) |
@@ -637,4 +638,8 @@ If you'd like to connect or have any questions about my solutions, feel free to 
 | ------- |
 | [0739-daily-temperatures](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0853-car-fleet) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sarva-20/DSA-LeetCode-GFG/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
